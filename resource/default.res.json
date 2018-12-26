@@ -1,0 +1,210 @@
+{
+	"groups": [
+	{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,roomSetting2_png,roomBorder_png,description_json",
+			"name": "preload"
+		},
+		{
+			"keys": "niu2_png,niu1_png,niu_png,menpiao_png,geng duo_png,fuzhi_png,fafang_png,di1_png,di_png,beij_png,ban_png,player_png,roomSetting_png",
+			"name": "createRoom"
+		}
+		
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "custom_assets/ban.png",
+			"type": "image",
+			"name": "ban_png"
+		},
+		{
+			"url": "custom_assets/beij.png",
+			"type": "image",
+			"name": "beij_png"
+		},
+		{
+			"url": "custom_assets/di.png",
+			"type": "image",
+			"name": "di_png"
+		},
+		{
+			"url": "custom_assets/di1.png",
+			"type": "image",
+			"name": "di1_png"
+		},
+		{
+			"url": "custom_assets/fafang.png",
+			"type": "image",
+			"name": "fafang_png"
+		},
+		{
+			"url": "custom_assets/fuzhi.png",
+			"type": "image",
+			"name": "fuzhi_png"
+		},
+		{
+			"url": "custom_assets/geng duo.png",
+			"type": "image",
+			"name": "geng duo_png"
+		},
+		{
+			"url": "custom_assets/menpiao.png",
+			"type": "image",
+			"name": "menpiao_png"
+		},
+		{
+			"url": "custom_assets/niu.png",
+			"type": "image",
+			"name": "niu_png"
+		},
+		{
+			"url": "custom_assets/niu1.png",
+			"type": "image",
+			"name": "niu1_png"
+		},
+		{
+			"url": "custom_assets/niu2.png",
+			"type": "image",
+			"name": "niu2_png"
+		},
+		{
+			"url": "custom_assets/player.png",
+			"type": "image",
+			"name": "player_png"
+		},
+		{
+			"url": "custom_assets/roomSetting.png",
+			"type": "image",
+			"name": "roomSetting_png"
+		},
+		{
+			"name": "roomSetting2_png",
+			"type": "image",
+			"url": "custom_assets/roomSetting.png"
+		},
+		{
+			"name": "roomBorder_png",
+			"type": "image",
+			"url": "custom_assets/roomBorder.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	]
+}
